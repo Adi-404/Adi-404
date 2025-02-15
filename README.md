@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey, I’m Aditya Mahapatra!<br>Passionate developer who loves building apps, training ML models, and crafting sleek UI/UX. Skilled in Python, C++, Java, TypeScript, JavaScript with experience in Docker, Arduino, and AWS.<br>🚀 Currently Working On:<br>	•	GPWS for UAVs – A React Native app to prevent UAV crashes! ✈️<br>	•	YOLO V10 for Oblique Images – Making AI see the world from weird angles 👀<br><br>❤️ Loves → Clean UI/UX, sleek designs, and well-documented tech<br>🙅‍♂️ Hates → Bad docs, too much theory, and “What can’t you do?” questions 😅<br><br>🍣 Ask me about:  Anime, food, and why ramen is superior 🍜🔥<br><br>!!one piece is peek fiction!!
+👋 Hey, I’m Aditya Mahapatra!<br>Passionate developer who loves building apps, training ML models, and crafting sleek UI/UX. Skilled in Python, C++, Java, TypeScript, JavaScript with experience in Docker, Arduino, and AWS.<br>🚀 Currently Working On:<br>	•	GPWS for UAVs – A React Native app to prevent UAV crashes! ✈️<br>	•	YOLO V10 for Oblique Images – Making AI see the world from weird angles 👀<br><br>❤️ Loves → Clean UI/UX, sleek designs, and well-documented tech<br>🙅‍♂️ Hates → Bad docs, too much theory, and “What can’t you do?” questions 😅<br><br>🍣 Ask me about:  Anime, food, and why ramen is superior 🍜🔥<br><br>!!one piece is peak fiction!!
 
 
 ## 🌐 Socials:
