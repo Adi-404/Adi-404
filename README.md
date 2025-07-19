@@ -3,21 +3,9 @@
 
 Full-time **UI Developer** & **Designer** who thrives on building beautiful, responsive interfaces and nailing frontend + auth flows. I love translating ideas into seamless user experiences.
 
----
-
 ## 🚀 Currently Working On:
 - _Some quirky UI kinda stuff_ – Playing with bold design ideas and creative interfaces 🎨🧪  
 - Frontend/Auth systems – Making login/signup flows feel like butter 🧈✨  
-
----
-
-## ❤️ Loves
-Clean UI/UX, sleek microinteractions, design systems, and pixel-perfect layouts
-
-## 🙅‍♂️ Hates
-Clunky flows, messy code, and “just make it work” energy 😅  
-
----
 
 ## 🍣 Ask me about:
 Anime, food, design patterns, and why **ramen > everything** 🍜🔥  
