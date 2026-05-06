@@ -56,12 +56,11 @@
  |___________________________________|
 ```
 
-- **CSR vs SSR** is a *trade-off*, not a religion. Stop arguing.
 - Your design system has **too many tokens**. Burn half of them.
 - Cloudflare Workers + heavy libraries = a love story full of compromise
 - A `<button>` is not a `<div>`. I will die on this hill.
 - **One Piece is peak fiction.** Marineford alone proves it.
-- The right amount of butter is *more*.
+- The right amount of cheese is *more*.
 
 ---
 
