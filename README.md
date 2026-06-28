@@ -29,21 +29,7 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠁⠀⠈⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
 
-# 👋 Hey, I'm Aditya Mahapatra
-
-**Frontend Engineer** building real-time, AI-powered B2B products — chatbots, document tools, voyage planners, dashboards that don't make people sigh. Defense kid turned React kid. I ship things, then redesign them, then ship them again.
-
----
-
-## 🚢 Currently shipping (literally)
-
-- **AI chatbots** that stream like Charizard's Flamethrower — token by token, no buffering, all heat 🔥
-- **Maritime voyage planners** routing real ships across real oceans. *Sea-faring captain energy, landlocked salary.*
-- **PDF diff tools** that find the one word your client changed in a 60-page contract at 2am. You're welcome.
-- **Dashboards** so clean the C-suite stops asking "where's the data?" mid-meeting
-- Whatever has to exist by Friday 🫡
-
----
+# 👋 Hey, I'm Adi
 
 ## 🧠 Hot takes I'll happily defend
 
